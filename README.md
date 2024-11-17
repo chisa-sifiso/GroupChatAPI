@@ -70,7 +70,7 @@
 
 <h2>👨‍💻 Contributors</h2>
 <ul>
-  <li><strong>Your Name:</strong> Backend Development</li>
+  <li><strong>Sifiso Vinjwa</strong> Backend Development</li>
 </ul>
 
 <h2>📄 License</h2>
